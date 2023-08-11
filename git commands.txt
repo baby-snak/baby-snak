@@ -1,0 +1,10 @@
+mkdir workflow.1
+git init.2
+git status.3
+git add . .4
+git add <file name>.5
+git commit -m "message".6
+git log.7
+git diff.8
+git checkout.9
+git rm file name.10
